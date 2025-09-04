@@ -47,17 +47,25 @@ cd <project-folder>
 
 ### 2. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Apply migrations
 
+```bash
 python manage.py makemigrations
 python manage.py migrate
+```
 
 ### 4. python manage.py runserver
 
+```bash
 python manage.py runserver
+```
 
 ### 5. python manage.py runserver
 
+```bash
 python manage.py runserver
+```
